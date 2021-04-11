@@ -1,0 +1,15 @@
+.time {
+    display: flex;
+}
+
+.secondes {
+    color:green;
+}
+
+.minutes {
+    color:red;
+}
+
+.hourse {
+    color: blue;
+}
